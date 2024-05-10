@@ -10,8 +10,8 @@ This project is a Python application that reconstructs holograms. It uses multip
 - **Image Visualization**: The reconstructed images can be visualized with a slider.
 - **Image Saving**: The reconstructed images can be saved as separate files.
 
-![Uploading ScreenRecording2024-05-10at23.59.39-ezgif.com-video-to-gif-converter.gif…]()
 
+![ScreenRecording2024-05-10at23 59 39-ezgif com-video-to-gif-converter](https://github.com/MarnixMeersman/Hologram_Reconstructor/assets/57674797/f852c9b3-5f33-4c1e-aaeb-a28fb1b32a95)
 
 ## Usage
 
